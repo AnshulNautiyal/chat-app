@@ -4,5 +4,6 @@
 
 npm install && npm run dev
 
-### App Hosted
+### App URL
 
+https://chat-app-ochre-one-16.vercel.app/
